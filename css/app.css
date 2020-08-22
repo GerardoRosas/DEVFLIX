@@ -208,7 +208,8 @@ form .ayuda {
   margin-right: 0;
 }
 
-.site-footer .lenguaje {
+.site-footer select {
+  margin-top: 2rem;
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
@@ -220,6 +221,6 @@ form .ayuda {
   color: #8C8C8C;
 }
 
-.site-footer .lenguaje:hover {
+.site-footer select:hover {
   cursor: pointer;
 }
